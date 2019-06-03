@@ -1,5 +1,7 @@
 ## 网页数据爬取,不定期更新
 ### 一.[🇨🇳中国城市数据爬取(五级联动)](src/main/java/com/mocaris/ChineseCityParser.kt)
+同步[gitee链接](https://gitee.com/Mocaris/htmlparser)  
+同步[github链接](https://github.com/Mocaris/htmlparser)  
 参考  
  ### ChineseCityParser
 ```kotlin
